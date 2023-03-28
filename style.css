@@ -8,7 +8,7 @@
   --Dark_Blue: #252d37;
   --Medium_Dark_Blue: hsl(214, 16%, 26%);
   --Very_Dark_Blue: hsl(216, 12%, 8%);
-  --Custom_Radial_Gradient: -webkit-radial-gradient(top, #454444d7, #161b21);
+  --Custom_Radial_Gradient: radial-gradient(circle at top, #454444d7, #161b21);
 }
 
 * {
