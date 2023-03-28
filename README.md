@@ -10,7 +10,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ## Links
 
 
-- Live Site URL: [https://kabrax01.github.io/QR-component---Frontend-Mentor/](https://kabrax01.github.io/QR-component---Frontend-Mentor/)
+- Live Site URL: [https://kabrax01.github.io/Interactive_rating_component_Frontend_Mentor/]
 
 
 ## Built with
