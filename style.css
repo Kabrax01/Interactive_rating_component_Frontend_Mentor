@@ -24,7 +24,7 @@ body {
 }
 
 .rating {
-  width: 21rem;
+  max-width: 21rem;
   height: 22rem;
   display: grid;
   background-color: var(--Dark_Blue);
@@ -102,7 +102,7 @@ p {
 /*  THANK YOU SECTION  */
 
 .thank_you {
-  width: 21rem;
+  max-width: 21rem;
   height: 22rem;
   display: grid;
   background-color: var(--Dark_Blue);
@@ -131,4 +131,17 @@ p {
 
 .hiden {
   display: none;
+}
+
+@media (max-width: 375px) {
+    .thank_you {
+        margin: 1rem;
+    }
+    .rating {
+        margin: 1rem;
+    }
+    .thank_you img {
+        padding-top: 1rem;
+        padding-bottom: 0;
+    }
 }
