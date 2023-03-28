@@ -20,6 +20,6 @@ window.addEventListener("load", () => {
 
 submitButton.addEventListener("click", function () {
   userRating.textContent = `You selected ${valueArr.at(-1)} out of 5`;
-  ratingSection.classList.toggle("hiden");
-  thankYouSection.classList.toggle("hiden");
+  ratingSection.classList.toggle("hidden");
+  thankYouSection.classList.toggle("hidden");
 });
